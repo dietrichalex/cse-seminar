@@ -1,4 +1,8 @@
 Schau mal in das GitHub Projekt rein zu dem ich dich eingeladen hab.
 Ansonsten hab ich jetzt mal Beispielhaft das 0te Bild gelabeled mit ColorCode #0xff0000 (also rot).
 
-Ansonsten sollte alles in dem Projekt drin stehen.
+Rest sollte alles in dem Projekt drin stehen.
+
+Morgen bei dem Meeting maybe kurz hier den main Branch präsentieren     +     weitere Steps erläutern.
+
+Einlesen in IoU vs Pixel Based bzw. IoU und PixelBased Merge.
