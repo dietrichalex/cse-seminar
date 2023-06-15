@@ -1,5 +1,5 @@
 Schau mal in das GitHub Projekt rein zu dem ich dich eingeladen hab.
-Ansonsten hab ich jetzt mal Beispielhaft das 0te Bild gelabeled mit ColorCode #0xff0000 (also rot).
+Ansonsten hab ich jetzt mal Beispielhaft das 0te Bild gelabeled (hatte zu mehr keinen Bock) mit ColorCode #0xff0000 (also rot).
 
 Rest sollte alles in dem Projekt drin stehen.
 
