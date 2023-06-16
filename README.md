@@ -18,3 +18,4 @@ Einlesen in IoU vs Pixel Based bzw. IoU und PixelBased Merge.
 + small_image30.png
 + small_image97.png
 + small_image76.png
++ small_image22.png
